@@ -240,9 +240,9 @@ section {
 .profile_text h3 {
   font-family: "Noto Sans JP", sans-serif;
   font-size: 1.4rem;
-  margin: 2rem 2rem 0;
+  margin: 3.5rem 2rem 0;
   text-align: left;
-  padding: 1rem 0;
+  padding: 1rem 0 0;
 }
 
 .profile_text p {
@@ -559,11 +559,12 @@ footer {
   }
 
   .profile_text h3 {
+    margin-top: 1rem;
     text-align: center;
   }
 
   .profile_text p {
-    margin: 1rem 2rem 2rem;
+    margin: 1.5rem 2rem 2rem;
     padding: 0;
   }
 
